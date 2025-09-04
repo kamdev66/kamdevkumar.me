@@ -1,0 +1,106 @@
+{
+  "translation": {
+    "home": "Home",
+    "about": "About",
+    "techs": "Techs",
+    "projects": "Projects",
+    "contact": "Contact",
+    "present": "Present",
+    "remote": "Remote",
+    "about-me": {
+      "title": "About me",
+      "job-title": "Full Stack Software Engineer",
+      "chips": {
+        "frontend": "Frontend Focus",
+        "react": "React Expert",
+        "react-native": "React Native Expert",
+        "backend": "Backend Focus",
+        "devops": "AWS Devops",
+        "gen-ai": "Generative AI Expert",
+        "web3": "web3 Blockchain Expert",
+        "leader": "Team Leader"
+      },
+      "highlights": {
+        "experience": "Years Experience",
+        "projects": "Projects Completed",
+        "technologies": "Technologies",
+        "clients": "Users Served"
+      },
+      "description": "Kamdev is a <0>Software Engineer Fullstack focused</0> with a degree in <1>Computer Science</1> from Lovely Professional University and over <2>3 years of experience</2> building <3>scalable, robust, and user-centered web applications</3>. He works as a <4>Full Stack Developer</4> with a strong focused on the frontend,backend and devops using <5>React.js, Next.js, TypeScript, Node.js, Shadcn, Tailwind CSS, MongoDB, Postgres,Kafka,Redis,TensorFlow </5> to deliver modern, accessible, and high-performance interfaces.\n\nHe has contributed to <6>high-impact projects</6> such as <7>CuteNails platform</7> used for <8>Nail Services</8>, <9>KarmaYoga platform</9>,-a real estate application<10>Samskruthi Airlines</10>,- similar like makeMyTrip . In these experiences, he participated in the development of <11>Microservice</11>, restructured codebases, integrated <13>generative AI with ChatGPT</13>, and applied <14>CI/CD best practices</14>. On the backend, he works with <15>Node.js </15>, using <16>PostgreSQL, MongoDB, Kafka, Redis, TensorFlow</16>, along with <17>Docker and Kubernetes</17> for containerized deployments.\n\nKamdev is a collaborative professional focused on <18>code quality</18>,<19>code security</19> actively engaging in <19>code reviews, continuous integration and deployment, and architectural discussions</19>. He is committed to delivering high-quality, scalable solutions that align with user and business needs."
+    },
+    "introduction": {
+      "hi": "Hi 👋",
+      "my-name-is": "My name is",
+      "my-role": "I'm a Fullstack Developer specializing in\nReact, Next.js, Tailwind CSS and Node.js."
+    },
+    "my-stacks": {
+      "title": "My skills",
+      "description": "Techs that I've been working with"
+    },
+    "experiences": "Experiences",
+    "frontend": "Frontend Software Engineer",
+    "fullstack": "Fullstack Software Engineer",
+    "contract-type": {
+      "contract": "Contract",
+      "full-time": "Full Time",
+      "half-time": "Half time"
+    },
+    "lang": {
+      "hi-IN": "हिंदी (भारत)",
+      "en-US": "English (US)"
+    },
+    "experience-description": {
+      "SamMeghTechnologies": {
+        "context": "SamMeghTechnologies is a <0>talent-intelligence</0> company that <1>leverages AI</1> for skill management and <2>serves one of the largest banks in LATAM</2>. As a Full Stack Software Engineer with a frontend focus, I deliver <3>high-performance, fluid interfaces</3>. My work prioritizes intuitive <4>user experiences</4> and <5>scalable architecture</5>.",
+        "1": "Spearheaded the <0>end-to-end development</0> of a <1>high-scale web platform</1> for <2>Nubank</2> within Acaso's ecosystem, delivering a fully functional <3>MVP</3> in record time and enabling over <4>9,000 employees</4> to adopt the solution.",
+        "2": "<0>Re-architected</0> the codebase into feature-based modules and <1>micro-frontends</1>, boosting <2>maintainability</2> and accelerating independent team deployments.",
+        "3": "Coordinated the migration from <0>Styled Components</0> to <1>Tailwind CSS</1>, crafting <2>fluid interfaces</2> with <3>seamless, high-performance animations</3>.",
+        "4": "Built a <0>cohesive, performance-optimized</0> ecosystem using <1>React.js/Next.js, TypeScript, Zustand, Context API, React Query, Recharts, Radix, Shadcn and Tailwind CSS</1>.",
+        "5": "Integrated <0>ChatGPT</0> to power <1>AI-driven</1> <2>'Suggested Skills,'</2> enhancing personalized user recommendations within the talent-intelligence platform.",
+        "6": "Drove <0>parallel feature development</0> across <1>front-end and back-end</1> (Python, Django REST Framework, Docker), ensuring <2>end-to-end delivery</2> without bottlenecks.",
+        "7": "Enforced <0>code quality</0> through thorough reviews, tracked tasks and bugs in Linear, and collaborated on UX designs to align functionality with user needs.",
+        "8": "Maintained <0>close, ongoing communication</0> with QA and <1>cross-functional teams</1>, consistently delivering <2>new features</2> and content under <3>tight deadlines</3>."
+      },
+      "KarmaYoga": {
+        "context": "KarmaYoga is the <0>largest corporate coaching institution in Latin America</0>, with a presence in over <1>40 cities worldwide</1>. I led <2>frontend architecture</2> and built <3>platforms from scratch</3> using <4>ReactJS, Vite, Redux, and MaterialUI</4>, designed to handle <5>thousands of users</5>. I defined <6>best practices in performance, state management, and CI/CD</6> for <7>scalable, modern user experiences</7>.",
+        "1": "Contributed to the development of a <0>high-traffic web platform</0> serving <1>50,000+ clients</1>, using <2>ReactJS with Vite, TypeScript, Redux, WebSockets, and TipTap</2> on the frontend, with <3>Python, Django REST Framework</3> on the backend.",
+        "2": "Ensured <0>high performance and scalability</0> through modern architecture, component reuse, and effective state management.",
+        "3": "Integrated <0>Google AI services</0> to deliver intelligent application features that enhanced user experience and system efficiency.",
+        "4": "Wrote <0>automated tests using Vitest</0>, increasing confidence in releases and maintaining high code reliability.",
+        "5": "Supported the entire <0>software development lifecycle</0>, from implementation to deployment and monitoring, ensuring smooth delivery of high-quality features.",
+        "6": "Applied <0>CI/CD best practices</0>, including pull requests, <1>code reviews</1>, and unit/integration testing pipelines.",
+        "7": "Participated in Dev Moment sessions, contributing to discussions on new technologies, architecture improvements, and coding standards to foster team growth and shared knowledge."
+      }   
+      
+      
+    },
+    "personal-projects": {
+      "control-vue": {
+        "description": "A comprehensive CSV file management application that allows users to upload, view, filter, and download CSV files with an intuitive interface and advanced data visualization capabilities."
+      },
+      "pizza-shop": {
+        "description": "A complete restaurant management system with order tracking, sales analytics, administrative dashboard, and passwordless authentication via magic links for fast food operations."
+      },
+      "redux-zustand": {
+        "description": "An interactive video-based learning platform with organized lesson modules, progress tracking, and efficient state management for seamless educational content delivery."
+      },
+      "posterr": {
+        "description": "A Twitter-like social media platform with real-time posting, user interactions, dynamic content feeds, and modern social networking features for optimal user engagement."
+      },
+      "metagame": {
+        "description": "A productivity application focused on goal-setting and time management with comprehensive activity monitoring, helping users track daily activities and develop better habits."
+      },
+      "textditor": {
+        "description": "A Notion-like rich text editor and productivity application with advanced editing capabilities, collaborative features, note organization, and flexible document management tools."
+      },
+      "ignews": {
+        "description": "A subscription-based blog platform with integrated payment processing, premium content access control, user subscription management, and dynamic content delivery system."
+      }
+    },
+    "education": "Education",
+    "computer-science": "Computer science",
+    "university-education": "University",
+    "mail": "Mail",
+    "phone": "Phone"
+  }
+}
